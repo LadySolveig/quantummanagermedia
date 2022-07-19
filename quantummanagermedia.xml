@@ -51,6 +51,7 @@
 					label="PLG_QUANTUMMANAGERMEDIA_CONFIG_ENABLEMEDIAADMINISTRATORCOMPONENTS_LABEL"
 					description="PLG_QUANTUMMANAGERMEDIA_CONFIG_ENABLEMEDIAADMINISTRATORCOMPONENTS_DESC"
 					default="com_content.article"
+				        layout="joomla.form.field.list-fancy-select"
 					showon="enablemedia:1">
 						<option
 							value=""
